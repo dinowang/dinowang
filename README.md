@@ -1,6 +1,6 @@
 ## Dino Wang
 
-- Microsoft Cloud Solution Architect
+- Microsoft Senior Cloud Solution Architect
 - Microsoft Azure MVP (2004-2019)
 - twMVC Community Co-funder.
 - Microsoft Certified Azure Solutions Architect Expert 
